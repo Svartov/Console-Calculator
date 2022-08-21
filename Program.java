@@ -49,7 +49,7 @@ public class Program {
                 if(simbol.equals("+") || simbol.equals("-") || simbol.equals("*") || simbol.equals("/")) {
                     System.out.println("\n" +a + " " + simbol + " " + b + " = " + c); // Sends the result to the console
                 }else{
-                    System.out.println("Error 346!"); // If we do not have a character from the list, we display error 346
+                    System.out.println("Error 346!"); // If we do not have a character from the list, we display error 346 in the console
                 }
 
                 // Enter a number to continue the program
